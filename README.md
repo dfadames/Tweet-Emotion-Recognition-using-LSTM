@@ -1,6 +1,6 @@
 # Tweet-Emotion-Recognition-using-LSTM
 This repository contains a project for training and using a Long Short-Term Memory (LSTM) model to classify emotions in tweets. (from twitter/X)) 
-The model identifies emotions such as sadness, joy, love, and anger based on textual input, leveraging the PyTorch framework and the BERT tokenizer.
+The model identifies emotions such as sadness, joy, love, and anger based on textual input with a 93% of acurracy, leveraging the PyTorch framework and the BERT tokenizer.
 
 Trained from a dataset from:
 https://huggingface.co/datasets/dair-ai/emotion
